@@ -1,0 +1,63 @@
+Aberrant Dragonmark
+Actor
+Alert
+Artificer Initiate
+Athlete
+Charger
+Chef
+Crossbow Expert
+Crusher
+Defensive Duelist
+Dual Wielder
+Dungeon Delver
+Durable
+Eldritch Adept
+Elemental Adept
+Fey Touched
+Fighting Initiate
+Gift of the Chromatic Dragon
+Gift of the Gem Dragon
+Gift of the Metallic Dragon
+Grappler
+Great Weapon Master
+Gunner
+Healer
+Heavily Armored
+Heavy Armor Master
+Inspiring Leader
+Keen Mind
+Lightly Armored
+Linguist
+Lucky
+Mage Slayer
+Magic Initiate
+Martial Adept
+Medium Armor Master
+Metamagic Adept
+Mobile
+Moderately Armored
+Mounted Combatant
+Observant
+Piercer
+Poisoner
+Polearm Master
+Resilient
+Ritual Caster
+Savage Attacker
+Sentinel
+Shadow Touched
+Sharpshooter
+Shield Master
+Skill Expert
+Skilled
+Skulker
+Slasher
+Spell Sniper
+Strixhaven Initiate
+Strixhaven Mascot
+Tavern Brawler
+Telekinetic
+Telepathic
+Tough
+War Caster
+Weapon Master

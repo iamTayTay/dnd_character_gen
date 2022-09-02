@@ -1,0 +1,16 @@
+Bugbear
+Centaur
+Regular Goblin
+Dankwood Goblin
+Grung
+Hobgoblin
+Kobold
+Lizardfolk
+Ravnica Minotaur
+Theros Minotaur
+Amonkhet Minotaur
+Regular Orc
+Eberron Orc
+Exandria Orc
+Ixalan Orc
+Yuan-Ti Pureblood

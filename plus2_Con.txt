@@ -1,0 +1,9 @@
+Hill Dwarf
+Mountain Dwarf
+Gray Dwarf
+Air Genasi
+Earth Genasi
+Fire Genasi
+Water Genasi
+Hobgoblin
+Lizardfolk

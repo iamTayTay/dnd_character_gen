@@ -1,0 +1,21 @@
+Aarakocra
+Protector Aasimar
+Scourge Aasimar
+Fallen Aasimar
+Fairy
+Firbolg
+Air Genasi
+Earth Genasi
+Fire Genasi
+Water Genasi
+Githyanki
+Githzerai
+Goliath
+Harengon
+Kenku
+Locathah
+Owlin
+Tabaxi
+Tortle
+Triton
+Verdan

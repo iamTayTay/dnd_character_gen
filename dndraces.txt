@@ -1,0 +1,36 @@
+Regular Dragonborn
+Draconblood Dragonborn
+Ravenite Dragonborn
+Chromatic Dragonborn
+Gem Dragonborn
+Metallic Dragonborn
+Hill Dwarf
+Mountain Dwarf
+Gray Dwarf
+Dark Elf
+Eldarin (DMG) Elf
+High Elf
+Sea Elf
+Shadar-Kai Elf
+Wood Elf Elf
+Pallid Elf Elf
+Eladrin (MToF) Elf
+Forest Gnome
+Rock Gnome
+Deep Gnome
+Half-Elf
+Half-Orc
+Lightfoot Halfling
+Stout Halfling
+Ghostwise Halfling
+Lotusden Halfling
+Human
+Asmodeus Tiefling
+Baalzebul Tiefling
+Dispater Tiefling
+Fierna Tiefling
+Glasya Tiefling
+Levistus Tiefling
+Mammon Tiefling
+Mephistopheles Tiefling
+Zariel Tiefling

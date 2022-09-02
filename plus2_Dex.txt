@@ -1,0 +1,19 @@
+Dark  Elf
+Eldarin (DMG) Elf
+High Elf
+Sea Elf
+Shadar-Kai Elf
+Wood Elf
+Pallid Elf
+Eladrin (MToF) Elf
+Lightfoot Halfling
+Stout Halfling
+Ghostwise Halfling
+Lotusden Halfling
+Aarakocra
+Kenku
+Tabaxi
+Goblin Regular
+Dankwood Goblin
+Grung
+Kobold

@@ -1,0 +1,17 @@
+Standard Dargonborn
+Ravenite Dargonborn
+Mountain Dwarf
+Half-Orc
+Githyanki
+Goliath
+Locathah
+Tortle
+Bugbear
+Centaur
+Ravnica Minotaur
+Theros Minotaur
+Amonkhet Minotaur
+Regular Orc
+Eberron Orc
+Exandria Orc
+Ixalan Orc

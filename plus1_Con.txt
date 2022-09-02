@@ -1,0 +1,20 @@
+Ravenite Dargonborn
+Sea Elf
+Shadar-Kai Elf
+Rock Gnome
+Half-Orc
+Stout Halfling
+Levistus Tiefling
+Scourge Aasimar
+Goliath
+Triton
+Verdan
+Regular Goblin
+Grung
+Ravnica Minotaur
+Theros Minotaur
+Amonkhet Minotaur
+Regular Orc
+Eberron Orc
+Exandria Orc
+Ixalan Orc
